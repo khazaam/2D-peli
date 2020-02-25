@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 8152afea5921eb348bc77d535555a048
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3055612717400231954
+    second: battlenerd2_juoksu_animaatio_0
+  - first:
+      213: -2983283096954130754
+    second: battlenerd2_juoksu_animaatio_1
+  - first:
+      213: 1603200098041583676
+    second: battlenerd2_juoksu_animaatio_2
+  - first:
+      213: 8032447952971433141
+    second: battlenerd2_juoksu_animaatio_3
+  - first:
+      213: 937178724951907911
+    second: battlenerd2_juoksu_animaatio_4
+  - first:
+      213: -1154877931195438325
+    second: battlenerd2_juoksu_animaatio_5
+  - first:
+      213: 4177358108898282591
+    second: battlenerd2_juoksu_animaatio_6
+  - first:
+      213: -90768535400417771
+    second: battlenerd2_juoksu_animaatio_7
+  - first:
+      213: -3511296543608650644
+    second: battlenerd2_juoksu_animaatio_8
+  - first:
+      213: 6990879939594453930
+    second: battlenerd2_juoksu_animaatio_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2226
+        width: 670
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ae04e30323b047ab064774847f374
+      internalID: 3055612717400231954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2220
+        width: 668
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279baddd84b32df4099052d696c670cf
+      internalID: -2983283096954130754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_2
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2230
+        width: 1183
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b921abce5e784098bc937c2f1c724
+      internalID: 1603200098041583676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 667
+        height: 2164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536499a3c1e6a54c9bc3c53d5674418
+      internalID: 8032447952971433141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1150
+        width: 668
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf51c795cb888942a3287c5318e92ad
+      internalID: 937178724951907911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_5
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1079
+        width: 670
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128175c1f09ef345ad0815a3e3664f4
+      internalID: -1154877931195438325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_6
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1069
+        width: 668
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6972721e4b7f948ad2a95502ec7db2
+      internalID: 4177358108898282591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_7
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 0
+        width: 670
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf11b47c7d33594faff71a73071a6a0
+      internalID: -90768535400417771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_8
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 1077
+        width: 677
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c82587c3bec374c8dde0cba9376e05
+      internalID: -3511296543608650644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlenerd2_juoksu_animaatio_9
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 11
+        width: 667
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56774dd189f91642aa93a53eb9694cc
+      internalID: 6990879939594453930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
